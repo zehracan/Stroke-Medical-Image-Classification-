@@ -9,5 +9,6 @@ train folder has 3556 png and -to be balanced- half of them healthy, half of the
 ![image](https://user-images.githubusercontent.com/61902608/190483019-03b861d9-9edb-46b4-8b40-fc969142172f.png) <br>
 
 val folder -which i use for test (Don't be confused by the name :) )- has 890 PNG. It consists of stroke(445) and healthy(445) images, half as well as on the train. <br>
-
+![image](https://user-images.githubusercontent.com/61902608/190483878-78bca4c5-76e2-4724-ad73-ef11dbe73ebb.png)
+<br>
 The image shape resized to 150X150 because imagenet trained by 150x150x3 images. <br>
